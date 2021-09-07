@@ -1,0 +1,18 @@
+{
+    "name": "thirsight/yii2-tsmd-corpinfo",
+    "description": "Grab Corporation Info for Yii2",
+    "keywords": ["yii2", "tsmd", "corporation"],
+    "license": "Apache-2.0",
+    "version": "1.0.0",
+    "homepage": "https://tsmd.thirsight.com/",
+    "authors": [
+        {
+            "name": "Haisenπ",
+            "email": "thirsight@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0",
+        "yiisoft/yii2": "~2.0.0"
+    }
+}
